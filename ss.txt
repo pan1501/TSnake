@@ -1,0 +1,4 @@
+FoodO = mainFoodVector[0]
+FoodO1 = mainFoodVector[1]
+FoodX = mainFoodVector[2]
+FoodX1 = mainFoodVector[3]
